@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/correctionKotlinAvecPOO" />
             <option value="$PROJECT_DIR$/correctionKotlinSansPOO" />
             <option value="$PROJECT_DIR$/demos" />
           </set>

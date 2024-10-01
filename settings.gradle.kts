@@ -23,3 +23,4 @@ rootProject.name = "DemonstrationCDA052024"
 include(":app")
 include(":demos")
 include(":correctionKotlinSansPOO")
+include(":correctionKotlinAvecPOO")
